@@ -8,7 +8,4 @@ nav:
        - 'M06': 'dwentornclient.md'
        - 'M07': 'dwentornservidor.md'
 
-  
-theme: 
-  name: readthedocs
-  custom_dir: dark/
+theme: readthedocs
