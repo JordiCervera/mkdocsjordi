@@ -7,5 +7,5 @@ nav:
        - 'M05': 'entorndesenvolupament.md'
        - 'M06': 'dwentornclient.md'
        - 'M07': 'dwentornservidor.md'
-
+       - 'M09 Ermengol': 'disseny.md'
 theme: readthedocs
