@@ -1,4 +1,4 @@
-# Entorn de desenvolupament 
+# Entorn de desenvolupament Orientat a Client
 Benvinguts al mòdul de d'Entorn de Desenvolupament!
 
 
