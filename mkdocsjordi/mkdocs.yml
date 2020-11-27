@@ -2,11 +2,13 @@ site_name: INS PEDRALBES Jordi Cervera
 nav:
     - Inici: 'index.md'
     - 'Assignatures':
-       - 'M02 - Base de dades': 'basededades.md'
-       - 'M03 - Programació': 'programacio.md'
-       - 'M05 - Entorn de desenvolupament': 'entorndesenvolupament.md'
-       - 'M06 - Desenvolupament web en entorn Client': 'dwentornclient.md'
-       - 'M07 - Desenvolupament web en entorn Servidor': 'dwentornservidor.md'
+       - 'M02': 'basededades.md'
+       - 'M03': 'programacio.md'
+       - 'M05': 'entorndesenvolupament.md'
+       - 'M06': 'dwentornclient.md'
+       - 'M07': 'dwentornservidor.md'
 
-     -About: 'about.md'
-theme: readthedocs
+  
+theme: 
+  name: readthedocs
+  custom_dir: dark/
